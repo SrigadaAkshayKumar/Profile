@@ -4,7 +4,9 @@ Hi 👋 My name is S. Akshay Kumar
 Computer Science Student
 ------------------------
 
-As a student passionate about exploring the world of data science, I'm eager to dive into statistical analysis, machine learning, and data visualization. With a growing interest in Web Development, I enjoy crafting responsive websites using React js, python, Nodejs and MySQL.
+a passionate programmer with a strong foundation in Python, data structures, and databases. I enjoy working with data to solve real-world problems through statistical analysis, machine learning, and data visualization. I have hands-on experience in data analysis using tools like Power BI, SQL, and Python libraries. I'm also exploring backend technologies and have a basic understanding of web development using React and Node.js. I actively contribute to open-source projects and enjoy collaborating with the developer community. I'm currently seeking opportunities in data analysis, data science, or backend development.
+
+## Project Admin GSSoC 2025 : [Stock Analyzer](https://github.com/SrigadaAkshayKumar/stock)  
 
 - 🌍  I'm based in India
   
