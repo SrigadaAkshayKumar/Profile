@@ -1,26 +1,23 @@
-Hi 👋 My name is S. Akshay Kumar
+Hi My name is S. Akshay Kumar
 ================================
 
 Computer Science Student
 ------------------------
 
-a passionate programmer with a strong foundation in Python, data structures, and databases. I enjoy working with data to solve real-world problems through statistical analysis, machine learning, and data visualization. I have hands-on experience in data analysis using tools like Power BI, SQL, and Python libraries. I'm also exploring backend technologies and have a basic understanding of web development using React and Node.js. I actively contribute to open-source projects and enjoy collaborating with the developer community. I'm currently seeking opportunities in data analysis, data science, or backend development.
+a passionate programmer with a strong foundation in Python, data structures, and databases. I enjoy working with data to solve real-world problems through statistical analysis, machine learning, and data visualization. I have hands-on experience in data analysis using tools like Power BI, SQL, and Python libraries. I'm also exploring backend technologies and have a basic understanding of web development using React and Node.js. I actively contribute to open-source projects and enjoy collaborating with the developer community. I'm currently seeking opportunities in data analysis, data science and data Engineer Roles.
 
-## Project Admin GSSoC 2025 : [Stock Analyzer](https://github.com/SrigadaAkshayKumar/stock)  
-
-- 🌍  I'm based in India
+ 
+## See my portfolio at [akshayportfolio](http://akshayportfolio.onrender.com)
+## Know about my experiences [linkedin](https://www.linkedin.com/in/akshaykumarsrigada/)
+### Project Admin GSSoC 2025 : [Stock Analyzer](https://github.com/SrigadaAkshayKumar/stock) 
   
-- 🖥️  See my portfolio at [Portfolio](http://akshayportfolio.onrender.com)
+- I’m currently learning : **Data Structures and Algorithms**
   
-- 🌱 I’m currently learning : **Data Structures and Algorithms**
+- I’m looking to collaborate on [Stock Analyzer](https://github.com/SrigadaAkshayKumar/stock)  
   
-- 👯 I’m looking to collaborate on [Stock Analyzer](https://github.com/SrigadaAkshayKumar/stock)  
+- I regularly write articles on [medium](https://medium.com/@akshayak8)  
   
-- 📝 I regularly write articles on [medium](https://medium.com/@akshayak8)  
-  
-- 📫 How to reach me **srigadaakshay@gmail.com**  
-  
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/akshaykumarsrigada/)
+- How to reach me **srigadaakshay@gmail.com**  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srigadaakshaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="srigadaakshaykumar" /> </p>
 
